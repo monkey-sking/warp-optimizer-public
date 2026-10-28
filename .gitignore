@@ -1,0 +1,13 @@
+__pycache__/
+*.conf
+*.toml
+*.txt
+*.yaml
+*.json
+warp_surge.conf
+warp_quanx.conf
+warp_shadowrocket.conf
+warp_loon.conf
+*.log
+.DS_Store
+wgcf

@@ -1,5 +1,9 @@
 # Cloudflare WARP Optimizer / Cloudflare WARP 优选工具
 
+<!-- badges:start -->
+[![Stars](https://img.shields.io/github/stars/monkey-sking/warp-optimizer-public?style=flat-square)](https://github.com/monkey-sking/warp-optimizer-public/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/warp-optimizer-public?style=flat-square)](https://github.com/monkey-sking/warp-optimizer-public/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/warp-optimizer-public?style=flat-square)](https://github.com/monkey-sking/warp-optimizer-public/commits/main)
+<!-- badges:end -->
+
 [English](#english) | [中文说明](#中文-chinese)
 
 <a name="english"></a>
